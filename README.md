@@ -1,43 +1,42 @@
-🌟 SWAGATIKA BEURA
+<h1 align="center">Hi there 👋</h1> <h3 align="center">Exploring Development • Open Source • AI Agents</h3>
+🧭 About Me :
 
-🚀 Exploring Development • 🌐 Open Source • 🤖 AI Agents
+I’m Swagatika — exploring development, contributing to open source, and experimenting with AI automation.
+I learn by building small projects and engaging with global tech communities.
 
-💡 ABOUT ME:
+🧩 Currently Working On :
 
-Hi! I’m Swagatika — passionate about development, contributing to open-source, and building AI automation workflows.
-I love learning new tools, experimenting with ideas, and collaborating globally.
+Open-source contributions & workflows
 
-🔥 CURRENTLY WORKING :
-+ Open-source contributions
-+ AI agents & automation workflows
-+ Real-world development projects
-+ Small experimental ideas
+AI agents & automation experiments
 
-📚 WHAT I’M LEARNING :
+Real-world project practice
 
-🌱 Development fundamentals
+📘 Learning :
 
-🤖 AI agents & automation
+Development fundamentals & best practices
 
-🌐 Open-source workflows
+Open-source workflows
 
-🛠 Modern tools & platforms
+Automation & AI concepts
 
-🌎 COMMUNITY:
+Collaboration & documentation
 
-💬 Engaging with global developer communities
-🎯 Participating in events, discussions & hackathons
-🤝 Learning and growing through collaboration
+🗂 Portfolio Sections :
 
-📬 HOW TO REACH ME:
+Interests: Development • Open Source • AI Agents • Automation
 
-<img width="184" height="148" alt="image" src="https://github.com/user-attachments/assets/928b13ae-6b75-45e0-89e5-2d9a814fc412" />
-Linkedln:https://www.linkedin.com/in/swagatika-beura-34b91932a
+Experiments: Testing small ideas & workflows
 
-T<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4328c710-0eab-4468-8256-30f8ab55f743" />
-witter:https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09
-✉️ Email:swagatikab25@gmail.com
+Growth Journey: Learning daily through practice & curiosity
 
-🎉 FUN FACT:
+🔗 Connect With Me :
+
+GitHub
+ • LinkedIn :https://www.linkedin.com/in/swagatika-beura-34b91932a
+ • Twitter :https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09
+ • ✉️ Email: swagatikab25@gmail.com
+
+😄 Fun Fact :
 
 I love exploring new things — even small progress feels exciting!

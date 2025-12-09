@@ -6,7 +6,6 @@
 ---
 
 💡 **About Me**  :
-
 Hi! I’m Swagatika —Exploring the world of **development, open-source projects, AI agents, automation workflows, and modern dev tools**.  
  ✨ I believe in:  
 - Learning by doing  
@@ -38,8 +37,9 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
   <img alt="AI" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
   <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
 </div>
+
 ---
-🌍 **Community & Exploration**  :
+🌍**C ommunity & Exploration**  :
 - Engaging with global developer communities & open-source communities  
 - Participating in hackathons, Tech discussions  & Events
 - Exploring open-source ecosystems and new development tools

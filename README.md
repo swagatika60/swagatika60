@@ -15,11 +15,6 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
 - Exploring ideas, even small ones — because everything teaches something!
 
 ---
-✨ I’m passionate about:
-I love experimenting with new tools, contributing to projects, and learning by doing stuffs.
-
----
-
 🧩 **Currently Working On**  :
 
 - Open-source contributions & workflows
@@ -28,9 +23,7 @@ I love experimenting with new tools, contributing to projects, and learning by d
 - Exploring new dev tools, frameworks & cloud platforms  
 
 ---
-
-🛠 **Skills & Tools**  
-
+🛠 **Skills & Tools**  :
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -46,26 +39,20 @@ I love experimenting with new tools, contributing to projects, and learning by d
    <img alt="AI Tools" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
   <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
 </div>
-
 ---
-
-🌍 **Community & Exploration**  
-
+🌍 **Community & Exploration**  :
 - Engaging with global developer communities & open-source communities  
 - Participating in hackathons, Tech discussions  & Events
 - Exploring open-source ecosystems and new development tools
 - Building a developer mindset through consistent practice  
-
 ---
-
-📬 **Connect With Me**  
+📬 **Connect With Me**  :
 
 - [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  
 - [X / Twitter](https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09)  
 - ✉️ Email: swagatikab25@gmail.com  
 
 ---
-
-🎉 **Fun Fact**  
+🎉 **Fun Fact** : 
 
 I love exploring new tools and ideas — even small experiments teach me something valuable!  

@@ -36,7 +36,6 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="AI" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
-   <img alt="AI Tools" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
   <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
 </div>
 ---

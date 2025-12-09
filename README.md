@@ -5,18 +5,27 @@
 
 ---
 
-💡 **About Me**  
+💡 **About Me**  :
 
-Hi! I’m Swagatika — passionate about development, open-source, AI agents, and automation workflows.  
-I love experimenting with new tools, contributing to projects, and learning through collaboration.  
+Hi! I’m Swagatika —Exploring the world of **development, open-source projects, AI agents, automation workflows, and modern dev tools**.  
+ ✨ I believe in:  
+- Learning by doing  
+- Sharing knowledge with communities  
+- Growing through open-source collaboration  
+- Exploring ideas, even small ones — because everything teaches something!
+
+---
+✨ I’m passionate about:
+I love experimenting with new tools, contributing to projects, and learning by doing stuffs.
 
 ---
 
-🧩 **Currently Working On**  
+🧩 **Currently Working On**  :
 
-- Open-source contributions & workflows  
-- AI agents & automation experiments  
-- Real-world project practice  
+- Open-source contributions & workflows
+- AI agents & automation experiments 
+- Real-world project practice & development experiments
+- Exploring new dev tools, frameworks & cloud platforms  
 
 ---
 
@@ -34,15 +43,18 @@ I love experimenting with new tools, contributing to projects, and learning thro
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="AI" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
+   <img alt="AI Tools" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
+  <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
 </div>
 
 ---
 
 🌍 **Community & Exploration**  
 
-- Engaging with global developer communities  
-- Participating in hackathons & discussions  
-- Exploring open-source ecosystems and new development tools  
+- Engaging with global developer communities & open-source communities  
+- Participating in hackathons, Tech discussions  & Events
+- Exploring open-source ecosystems and new development tools
+- Building a developer mindset through consistent practice  
 
 ---
 

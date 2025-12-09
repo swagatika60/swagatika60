@@ -14,14 +14,6 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
 - Exploring ideas, even small ones — because everything teaches something!
 
 ---
-🧩 **Currently Working On**  :
-
-- Open-source contributions & workflows
-- AI agents & automation experiments 
-- Real-world project practice & development experiments
-- Exploring new dev tools, frameworks & cloud platforms  
-
----
 🛠 **Skills & Tools**  :
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -39,7 +31,16 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
 </div>
 
 ---
-🌍**C ommunity & Exploration**  :
+🧩 **Currently Working On**  :
+
+- Open-source contributions & workflows
+- AI agents & automation experiments 
+- Real-world project practice & development experiments
+- Exploring new dev tools, frameworks & cloud platforms  
+
+---
+
+🌍**Community & Exploration**  :
 - Engaging with global developer communities & open-source communities  
 - Participating in hackathons, Tech discussions  & Events
 - Exploring open-source ecosystems and new development tools
@@ -55,3 +56,4 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
 🎉 **Fun Fact** : 
 
 I love exploring new tools and ideas — even small experiments teach me something valuable!  
+

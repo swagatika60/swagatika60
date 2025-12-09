@@ -1,98 +1,43 @@
-🌟 Swagatika Beura
-Exploring Development • Open-Source Explorer • AI Agent & Automation Learner
+🌟 SWAGATIKA BEURA
 
+🚀 Exploring Development • 🌐 Open Source • 🤖 AI Agents
 
+💡 ABOUT ME:
 
-</div>
+Hi! I’m Swagatika — passionate about development, contributing to open-source, and building AI automation workflows.
+I love learning new tools, experimenting with ideas, and collaborating globally.
 
-🚀 About Me
-Hi! I'm Swagatika, actively exploring development, open-source, and AI agent automation.
-I enjoy learning new things, contributing to global communities, and building ideas step by step.
+🔥 CURRENTLY WORKING :
++ Open-source contributions
++ AI agents & automation workflows
++ Real-world development projects
++ Small experimental ideas
 
-🧩 What I’m Currently Working On
+📚 WHAT I’M LEARNING :
 
+🌱 Development fundamentals
 
-🔧 Exploring open-source ecosystems
+🤖 AI agents & automation
 
+🌐 Open-source workflows
 
-🤖 Learning & building AI agents + automation workflows
+🛠 Modern tools & platforms
 
+🌎 COMMUNITY:
 
-🌐 Improving my development fundamentals
+💬 Engaging with global developer communities
+🎯 Participating in events, discussions & hackathons
+🤝 Learning and growing through collaboration
 
+📬 HOW TO REACH ME:
 
-📌 Working on ideas, small projects & real-world problem-solving
+<img width="184" height="148" alt="image" src="https://github.com/user-attachments/assets/928b13ae-6b75-45e0-89e5-2d9a814fc412" />
+Linkedln:https://www.linkedin.com/in/swagatika-beura-34b91932a
 
+T<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/4328c710-0eab-4468-8256-30f8ab55f743" />
+witter:https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09
+✉️ Email:swagatikab25@gmail.com
 
+🎉 FUN FACT:
 
-📚 What I’m Learning
-
-
-🌱 Development (Web + General Software)
-
-
-🤝 Open-source contribution strategies
-
-
-🤖 AI agents, workflows & automation
-
-
-🛠 Tools, platforms & Dev workflows
-
-
-
-🌍 Community & Engagement
-
-
-🤝 Joining and learning from global tech communities
-
-
-🧩 Participating in developer events, discussions & OSS programs
-
-
-🌐 Connecting with people who love building
-
-
-
-📬 How to Reach Me
-<div align="left">
-
-
-🌐 GitHub: github.com/swagatika60
-
-
-🔗 LinkedIn: Add your LinkedIn link here
-
-
-✉️ Email: Add your email if you want
-
-
-</div>
-
-🎉 Fun Fact
-✨ I love trying different things — even small steps count as progress!
-
-🖼️ Profile Aesthetic
-<div align="center">
-
-</div>
-
-🧵 Soft Skills
-✔ Curiosity
-✔ Consistency
-✔ Adaptability
-✔ Problem-solving mindset
-
-✨ Clean Section Box Design
-📦 CURRENT FOCUS  
-• Development & learning  
-• Open-source exploration  
-• AI agents & automation  
-
-🔍 INTERESTS  
-• Real-world projects  
-• Tech communities  
-• Creative ideas  
-
-
-it minimal” or give me your LinkedIn link!
+I love exploring new things — even small progress feels exciting!

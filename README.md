@@ -53,7 +53,7 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
 - ✉️ Email: swagatikab25@gmail.com  
 
 ---
-🎉 **Fun Fact** : 
+🎉 **Fun Fact** :
 
 I love exploring new tools and ideas — even small experiments teach me something valuable!  
 

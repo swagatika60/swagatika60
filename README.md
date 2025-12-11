@@ -36,7 +36,7 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
 - Open-source contributions & workflows
 - AI agents & automation experiments 
 - Real-world project practice & development experiments
-- Exploring new dev tools, frameworks & cloud platforms  
+- Exploring new dev tools, frameworks & cloud platforms
 
 ---
 

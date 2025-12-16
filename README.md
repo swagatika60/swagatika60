@@ -44,7 +44,7 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
 - Engaging with global developer communities & open-source communities  
 - Participating in hackathons, Tech discussions  & Events
 - Exploring open-source ecosystems and new development tools
-- Building a developer mindset through consistent practice  
+- Building a developer mindset through consistent practice
 ---
 📬 **Connect With Me**  :
 

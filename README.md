@@ -10,7 +10,7 @@
 - [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  
 - [X / Twitter](https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09)  
 - ✉️ Email: swagatikab25@gmail.com
-- 
+
 ---
 🛠 **Skills, Tools & Technologies:**
 

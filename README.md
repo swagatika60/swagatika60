@@ -42,7 +42,7 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
 
 ---
 🧩 **Currently Working On:**  
-6
+
 - Open-source contributions & workflows
 - AI agents & automation experiments 
 - Real-world project practice & development experiments

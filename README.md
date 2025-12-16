@@ -23,12 +23,17 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="Debugging" src="https://img.shields.io/badge/Debugging-FF9800?style=for-the-badge">
+  <img alt="Problem Solving" src="https://img.shields.io/badge/Problem_Solving-9C27B0?style=for-the-badge">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="AI" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
+  <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge">
   <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
   <img alt="Developer Tools" src="https://img.shields.io/badge/Developer_Tools-2F80ED?style=for-the-badge">
+  <img alt="CLI Tools" src="https://img.shields.io/badge/CLI_Tools-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  
 </div>
 
 ---

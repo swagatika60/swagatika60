@@ -9,7 +9,8 @@
 
 - [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  
 - [X / Twitter](https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09)  
-- ✉️ Email: swagatikab25@gmail.com  
+- ✉️ Email: swagatikab25@gmail.com
+- 
 ---
 🛠 **Skills & Tools:**  
 <div align="left">
@@ -53,13 +54,7 @@
 - Exploring open-source ecosystems and new development tools
 - Building a developer mindset through consistent practice
 ---
-📬 **Connect With Me:** 
 
-- [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  
-- [X / Twitter](https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09)  
-- ✉️ Email: swagatikab25@gmail.com  
-
----
 🎉 **Fun Fact:** 
 
 I love exploring new tools and ideas — even small experiments teach me something valuable!  

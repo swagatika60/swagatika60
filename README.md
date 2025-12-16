@@ -5,15 +5,12 @@
 
 ---
 
-💡 **About Me:**  
-Hi! I’m Swagatika —Exploring the world of **development, open-source projects, AI agents, automation workflows, and modern dev tools**.  
- ✨ I believe in:  
- - Learning by doing  
-- Sharing knowledge with communities  
-- Growing through open-source collaboration  
-- Exploring ideas, even small ones — because everything teaches something!
----
+📬 **Connect With Me:** 
 
+- [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  
+- [X / Twitter](https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09)  
+- ✉️ Email: swagatikab25@gmail.com  
+---
 🛠 **Skills & Tools:**  
 <div align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">

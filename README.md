@@ -28,7 +28,7 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="AI" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
   <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
-  <img alt="Full stack"  src="https:/img.shields.io/badge/Full%20Stack-3DA639?style=for-the-badge&logo=Full-Stack&logocolor=/white">
+  
 </div>
 
 ---

@@ -47,7 +47,6 @@
   <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
   <img alt="CLI Tools" src="https://img.shields.io/badge/CLI_Tools-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge">
-  <img alt="Automation Scripts" src="https://img.shields.io/badge/Automation_Scripts-6E40C9?style=for-the-badge">
   <img alt="AI Tooling" src="https://img.shields.io/badge/AI_Tooling-FF4D4D?style=for-the-badge">
   <img alt="Developer Tools" src="https://img.shields.io/badge/Developer_Tools-2F80ED?style=for-the-badge">
   <img alt="Debugging" src="https://img.shields.io/badge/Debugging-FF9800?style=for-the-badge">
@@ -68,7 +67,7 @@
 ---
 
 🌍**Community & Exploration:**  
-- Engaging with global developer communities & open-source communities  
+- Engaging with global developer & open-source communities  
 - Participating in hackathons, Tech discussions  & Events
 - Exploring open-source ecosystems and new development tools
 - Building a developer mindset through consistent practice

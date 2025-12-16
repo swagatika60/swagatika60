@@ -30,9 +30,13 @@ Hi! I’m Swagatika —Exploring the world of **development, open-source project
   <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img alt="AI" src="https://img.shields.io/badge/AI-FF6F61?style=for-the-badge">
   <img alt="AI Agents" src="https://img.shields.io/badge/AI_Agents-FF6F61?style=for-the-badge">
+  <img alt="Automation" src="https://img.shields.io/badge/Automation-6E40C9?style=for-the-badge">
   <img alt="Open Source" src="https://img.shields.io/badge/Open%20Source-3DA639?style=for-the-badge&logo=open-source-initiative&logoColor=white">
   <img alt="Developer Tools" src="https://img.shields.io/badge/Developer_Tools-2F80ED?style=for-the-badge">
   <img alt="CLI Tools" src="https://img.shields.io/badge/CLI_Tools-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge">
+  <img alt="System Design" src="https://img.shields.io/badge/System_Design-4CAF50?style=for-the-badge">
+  
   
 </div>
 

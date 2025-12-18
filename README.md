@@ -57,7 +57,7 @@
 </div>
 
 ---
-***🧩 Currently Working On:***  
+***🧩 Currently Working On:***
 
 - Open-source contributions & workflows
 - AI agents & automation experiments 

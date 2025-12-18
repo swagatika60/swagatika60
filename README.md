@@ -5,14 +5,14 @@
 
 ---
 
-*****📬Connect With Me:***** 
+*****📬 Connect With Me:***** 
 
 - [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  
 - [X / Twitter](https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09)  
 - ✉️ Email: swagatikab25@gmail.com
 
 ---
-🛠 ***Skills, Tools & Technologies:***
+***🛠 Skills, Tools & Technologies:***
 
 <div align="left">
   <!-- Languages -->
@@ -57,7 +57,7 @@
 </div>
 
 ---
-🧩 ***Currently Working On:***  
+***🧩 Currently Working On:***  
 
 - Open-source contributions & workflows
 - AI agents & automation experiments 
@@ -66,14 +66,14 @@
 
 ---
 
-🌍**Community & Exploration:**  
+***🌍 Community & Exploration:*** 
 - Engaging with global developer & open-source communities  
 - Participating in hackathons, Tech discussions  & Events
 - Exploring open-source ecosystems and new development tools
 - Building a developer mindset through consistent practice
 ---
 
-🎉 **Fun Fact:** 
+***🎉 Fun Fact:*** 
 
 I love exploring new tools and ideas — even small experiments teach me something valuable!  
 ---

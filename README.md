@@ -12,7 +12,7 @@
 - ✉️ Email: swagatikab25@gmail.com
 
 ---
-🛠 **Skills, Tools & Technologies:**
+🛠 ***Skills, Tools & Technologies:***
 
 <div align="left">
   <!-- Languages -->

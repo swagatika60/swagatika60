@@ -73,7 +73,7 @@
 - Building a developer mindset through consistent practice
 ---
 
-***🎉 Fun Fact:*** 
+***🎉 Fun Fact:****
 
 I love exploring new tools and ideas — even small experiments teach me something valuable!  
 ---

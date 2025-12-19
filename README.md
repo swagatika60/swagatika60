@@ -5,7 +5,7 @@
 
 ---
 
-****📬 Connect With Me:***
+***📬 Connect With Me:***
 
 - [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  
 - [X / Twitter](https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09)  

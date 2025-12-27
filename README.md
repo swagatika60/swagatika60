@@ -4,7 +4,6 @@
     alt="Typing SVG"
   />
 </p>
----
 
 <p align="center">
   <h1 align="center">Hi there 👋 I'm Swagatika</h1>

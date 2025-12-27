@@ -1,10 +1,11 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2800&pause=800&color=6A5ACD&center=true&vCenter=true&width=900&lines=Hey+there+👋+I'm+Swagatika;Open+Source+Contributor+🌐;Exploring+Development+✨;Aspiring+Full-Stack+Dev+🖥️;Engaging+with+Dev+Communities+%26+Innovative+Tools+⚡"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Hey+there+👋+I'm+Swagatika;Exploring+Development✨;Open+Source+Contributor🌐;Aspiring+Full-stack+Dev🖥️"
     alt="Typing SVG"
   />
 </p>
 
+---
 
 <p align="center">
   <h1 align="center">Hi there 👋 I'm Swagatika</h1>

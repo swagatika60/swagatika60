@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=6A5ACD&center=true&vCenter=true&width=800&lines=Hey+there+%F0%9F%91%8B+I'm+Swagatika;Exploring+Development+%E2%9C%A8;Open+Source+Contributor+%F0%9F%8C%90;Aspiring+Full-stack+Dev+%F0%9F%96%A5%EF%B8%8F"
+    alt="Typing SVG"
+  />
+</p>
+---
 
 <p align="center">
   <img

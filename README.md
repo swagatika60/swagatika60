@@ -6,8 +6,6 @@
 ---
 
 
-  
-  
  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Swagatika%20Beura-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -25,6 +23,13 @@
     <img src="https://img.shields.io/badge/DEV.to-swagatika__beura2-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="DEV.to" />
   </a>
   &nbsp;&nbsp;
+  
+  <!-- GITHUB -->
+  <a href="https://github.com/swagatika60" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-swagatika60-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+
 
   <!-- Email -->
   <a href="mailto:swagatikab25@gmail.com">

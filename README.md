@@ -5,6 +5,37 @@
 
 ---
 <p align="center">
+  <a href="https://github.com/swagatika60" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="42" height="42" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="42" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg"
+         width="42" height="42" alt="X"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://dev.to/swagatika_beura2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg"
+         width="42" height="42" alt="DEV.to"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:swagatikab25@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
+         width="42" height="42" alt="Email"/>
+  </a>
+</p>
+---
+<p align="center">
   <!-- GitHub -->
   <a href="https://github.com/swagatika60" target="_blank">
     <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />

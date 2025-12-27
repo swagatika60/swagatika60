@@ -5,6 +5,25 @@
 
 ---
 
+<h3 align="center">📬 Connect With Me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:swagatikab25@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" alt="Email"/>
+  </a>
+</p>
+
+---
+
+
 ***📬 Connect With Me:***
 
 - [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  

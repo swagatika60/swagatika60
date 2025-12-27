@@ -1,8 +1,6 @@
-<h1 align="center">Hey there 👋 I'm Swagatika</h1>
-
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=4CAF50&center=true&vCenter=true&width=600&lines=Exploring+Development;Open+Source+Contributor;AI+Agents;New+Dev+Tools"
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2800&pause=800&color=6A5ACD&center=true&vCenter=true&width=900&lines=Hey+there+👋+I'm+Swagatika;Open+Source+Contributor+🌐;Exploring+Development+✨;Aspiring+Full-Stack+Dev+🖥️;Engaging+with+Dev+Communities+%26+Innovative+Tools+⚡"
     alt="Typing SVG"
   />
 </p>

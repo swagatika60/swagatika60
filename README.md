@@ -19,72 +19,18 @@
     <img src="https://img.shields.io/badge/DEV.to-swagatika__beura2-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="DEV.to" />
   </a>
   &nbsp;&nbsp;
+  <p align="center">
+  
+  <a href="https://github.com/swagatika60" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-swagatika60-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
 
   <a href="mailto:swagatikab25@gmail.com">
     <img src="https://img.shields.io/badge/Email-swagatikab25@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://dev.to/swagatika_beura2" target="_blank">
-    <img src="https://img.shields.io/badge/DEV-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="mailto:swagatikab25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<h3 align="center">📬 Connect With Me</h3>
-
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- X (Twitter) -->
-  <a href="https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09" target="_blank">
-    <img src="https://img.shields.io/badge/X-X-000000?style=for-the-badge&logo=x&logoColor=white"
-         alt="X"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- DEV.to -->
-  <a href="https://dev.to/swagatika_beura2" target="_blank">
-    <img src="https://img.shields.io/badge/DEV-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"
-         alt="DEV.to"/>
-  </a>
-  &nbsp;&nbsp;
-
-  <!-- Email -->
-  <a href="mailto:swagatikab25@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email"/>
-  </a>
-</p>
-
----
-***📬 Connect With Me:***
-
-- [LinkedIn](https://www.linkedin.com/in/swagatika-beura-34b91932a)  
-- [X / Twitter](https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09)  
-- ✉️ Email: swagatikab25@gmail.com
-
----
 ***🛠 Skills, Tools & Technologies:***
 
 <div align="left">

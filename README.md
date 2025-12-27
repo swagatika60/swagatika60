@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋 I'm Swagatika</h1>
+
 
 <p align="center">
   <img

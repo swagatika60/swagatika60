@@ -5,7 +5,7 @@
 
 ---
 **🌐 Connect With Me:**
-  <p align="center">
+  <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/swagatika60" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-swagatika60-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />

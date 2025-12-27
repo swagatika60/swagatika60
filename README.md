@@ -4,10 +4,8 @@
     alt="Typing SVG"
   />
 </p>
-
-<p align="center">
-  <h1 align="center">Hi there 👋 I'm Swagatika</h1>
-  <h3 align="center">Exploring Development • Open Source • AI Agents • New Dev Tools</h3>
+---
+<h3 align="center">Exploring Development • Open Source • AI Agents • New Dev Tools</h3>
 </p>
 
 ---

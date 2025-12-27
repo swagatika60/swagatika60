@@ -4,6 +4,7 @@
     alt="Typing SVG"
   />
 </p>
+
 ---
 <h3 align="center">Exploring Development • Open Source • AI Agents • New Dev Tools</h3>
 </p>

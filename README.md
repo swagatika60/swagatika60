@@ -6,6 +6,27 @@
 ---
 <p align="center">
   <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Swagatika%20Beura-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/X-@swagatika58256-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://dev.to/swagatika_beura2" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-swagatika__beura2-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" alt="DEV.to" />
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:swagatikab25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-swagatikab25@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-IN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;

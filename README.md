@@ -4,7 +4,35 @@
 </p>
 
 ---
+<p align="center">
+  <!-- GitHub -->
+  <a href="https://github.com/swagatika60" target="_blank">
+    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a" target="_blank">
+    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- X -->
+  <a href="https://x.com/swagatika58256?t=7XzFd4BnqXIacQ6GqifeOg&s=09" target="_blank">
+    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+
+  <!-- DEV.to -->
+  <a href="https://dev.to/swagatika_beura2" target="_blank">
+    <img src="https://img.shields.io/badge/-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:swagatikab25@gmail.com">
+    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
+---
 **🌐 Connect With Me:**
+
   <p align="left">
   <!-- GitHub -->
   <a href="https://github.com/swagatika60" target="_blank">

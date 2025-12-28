@@ -7,32 +7,13 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/swagatika60">
-    <img src="https://img.shields.io/badge/-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a">
-    <img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/swagatika58256">
-    <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  <a href="https://dev.to/swagatika_beura2">
-    <img src="https://img.shields.io/badge/-0A0A0A?style=flat-square&logo=dev.to&logoColor=white" />
-  </a>
-  <a href="mailto:swagatikab25@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
 <h3 align="center">Exploring Development • Open Source • AI Agents • New Dev Tools</h3>
 </p>
 
 ---
 **🌐 Connect With Me:**
 
-  <p align="left">
+  <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/swagatika60" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-swagatika60-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />

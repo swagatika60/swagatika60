@@ -72,23 +72,23 @@
 
 ---
 
-
 ### 📈 Contribution Activity Graph
 <p align="center">
-  <!-- Added cache_seconds=14400 to force faster refreshes -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true&cache_seconds=14400" width="100%" alt="Activity Graph" />
+  <!-- Added v=1 to force bypass GitHub's image cache -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true&v=1" width="100%" alt="Activity Graph" />
 </p>
 
 ---
 
 ### 📊 Performance Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
+  <!-- Removed include_all_commits to prevent timeout/crashes, added v=1 for fresh data -->
+  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true&v=1" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true&count_private=true&v=1" alt="Top Languages" />
 </p>
 
 

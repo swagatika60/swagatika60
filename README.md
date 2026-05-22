@@ -17,28 +17,24 @@
 
 ---
 
-### 📊 GitHub Stats (Real-Time)
+### 🛠 Tech Stack (Active Flow)
+<!-- This creates a scrolling effect for your skills -->
 <p align="center">
-  <a href="https://github.com/swagatika60/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
-
-### 🛠 Tech Stack
 <p align="center">
-  <a href="https://skillicons.dev">
+  <marquee scrollamount="8" width="500">
     <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,go,docker,kubernetes,git,linux" alt="Tech Stack" />
-  </a>
+  </marquee>
 </p>
 
 ---
 
-### 📈 GitHub Streak
+### 📈 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
 ---

@@ -72,6 +72,13 @@
 
 ---
 
+
+### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
 ### 📊 Performance Dashboard
 <p align="center">
   <a href="https://github.com/swagatika60">
@@ -87,13 +94,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   </a>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
-</p>
-
----
-
-### 📈 Contribution Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---

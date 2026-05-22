@@ -82,13 +82,15 @@
 
 ### 📊 Performance Dashboard
 <p align="center">
-  <!-- Removed include_all_commits to prevent timeout/crashes, added v=1 for fresh data -->
-  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true&v=1" alt="Streak" />
+  <!-- Use the 'github-readme-stats' via a more stable endpoint -->
+  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&disable_animations=true" alt="Stats" />
+  
+  <!-- Use a more reliable endpoint for streaks -->
+  <img src="https://streak-stats.demolab.com?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true&count_private=true&v=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 

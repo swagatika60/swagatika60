@@ -80,19 +80,23 @@
 
 ---
 
-### 📊 Performance Dashboard
-<p align="center">
-  <!-- Use the 'github-readme-stats' via a more stable endpoint -->
-  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&disable_animations=true" alt="Stats" />
-  
-  <!-- Use a more reliable endpoint for streaks -->
-  <img src="https://streak-stats.demolab.com?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
-</p>
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://streak-stats.demolab.com?user=swagatika60&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ### 🚀 Showcase Projects
 <table align="center" width="100%">

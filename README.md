@@ -80,24 +80,22 @@
 </p>
 
 ---
-
 ### 📊 Performance Dashboard
 <p align="center">
   <a href="https://github.com/swagatika60">
-    <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&cache_seconds=14400" alt="Main Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" alt="Main Stats" />
   </a>
   <a href="https://github.com/swagatika60">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true&v=1" alt="Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/swagatika60">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true&cache_seconds=14400" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
   </a>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
 </p>
-
 
 ### 🚀 Showcase Projects
 <table align="center" width="100%">

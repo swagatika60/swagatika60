@@ -17,43 +17,85 @@
 
 ---
 
-### 🛠 Tech Stack (Active Flow)
-<!-- This creates a scrolling effect for your skills -->
+### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=swagatika60&theme=radical&no-bg=true&margin-w=15" alt="Github Trophies" />
+  </a>
 </p>
 
+---
+
+### 🛠 Tech Stack & Tools (Active Flow)
 <p align="center">
-  <marquee scrollamount="8" width="500">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,go,docker,kubernetes,git,linux" alt="Tech Stack" />
+  <marquee scrollamount="6" width="600" behavior="scroll" direction="left">
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,go,docker,kubernetes,git,linux,html,css,vscode,github" alt="Tech Stack" />
   </marquee>
 </p>
 
----
-
-### 📈 GitHub Stats & Streak
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
-</p>
-
----
-
-### 🚀 Projects & Focus
-<details align="center" open>
-  <summary><b>View Current Highlights</b></summary>
+<details>
+  <summary><b>🔍 Expand Tech Ecosystem Breakdown</b></summary>
   <br>
-  <table align="center">
+  <table>
     <tr>
-      <td><b>VisionMate</b><br>AI Spatial Awareness Agent</td>
-      <td><b>Stark Nanite</b><br>Gesture 3D UI</td>
-      <td><b>Placement Eco</b><br>Full-Stack Web App</td>
+      <td><b>Languages</b></td>
+      <td>Python, Java, JavaScript, TypeScript, Go</td>
+    </tr>
+    <tr>
+      <td><b>Frameworks & Libs</b></td>
+      <td>React, Next.js, Node.js, Express, Three.js</td>
+    </tr>
+    <tr>
+      <td><b>DevOps & Cloud</b></td>
+      <td>Docker, Kubernetes, Linux, Git Architecture</td>
     </tr>
   </table>
 </details>
 
 ---
 
+### 📊 Performance Dashboard
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swagatika60&style=for-the-badge&color=blue" alt="Visitor Count" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+### 🚀 Showcase Projects
+<table align="center" width="100%">
+  <tr>
+    <td width="33.3%" align="center">
+      <b>🤖 VisionMate</b><br>
+      <i>AI Spatial Awareness Agent</i><br>
+      <sub>YOLOv8 • Gemini API • Streamlit</sub>
+    </td>
+    <td width="33.3%" align="center">
+      <b>✨ Stark Nanite Interface</b><br>
+      <i>Gesture-Controlled 3D UI</i><br>
+      <sub>Three.js • Custom Shaders</sub>
+    </td>
+    <td width="33.3%" align="center">
+      <b>🎓 Placement Ecosystem</b><br>
+      <i>Centralized Preparation Web Hub</i><br>
+      <sub>Full-Stack Frameworks</sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swagatika60&style=for-the-badge&color=4F46E5" alt="Visitor Count" />
 </p>

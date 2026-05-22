@@ -26,24 +26,6 @@
 
 ---
 
-### 🤝 Open Source & Experience
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/LFX_Mentee-Linux_Foundation-171717?style=for-the-badge&logo=linux" alt="LFX"/><br>
-      <b>Kubernetes SIG Docs Localization</b><br>
-      <sub>Contributing to AI-assisted automation & global documentation workflows.</sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/Gen_AI_Professional-Infosys_Springboard-007CC3?style=for-the-badge" alt="Infosys"/><br>
-      <b>Applied Generative AI</b><br>
-      <sub>Building hands-on experience through virtual internship certifications.</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠 Tech Stack & Tools (Active Flow)
 <p align="center">
   <marquee scrollamount="6" width="600" behavior="scroll" direction="left">
@@ -51,21 +33,39 @@
   </marquee>
 </p>
 
-<details>
- <summary><b>🔍 Expand Tech Ecosystem Breakdown</b></summary>
+<details open>
+ <summary><b>🔍 Expand Interactive Tech Ecosystem Breakdown</b></summary>
   <br>
-  <table>
+  <table align="center" width="100%">
     <tr>
-     <td><b>Languages</b></td>
-     <td>Python, Java, JavaScript, TypeScript, Go</td>
+     <td align="center" width="25%"><b>💻 Languages</b></td>
+     <td align="left" width="75%">
+        <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
+        <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+        <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
+        <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /></a>
+     </td>
     </tr>
     <tr>
-     <td><b>Frameworks & Libs</b></td>
-      <td>React, Next.js, Node.js, Express, Three.js, Flask</td>
+     <td align="center"><b>⚡ Frameworks & Libs</b></td>
+      <td align="left">
+        <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></a>
+        <a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" /></a>
+        <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" /></a>
+        <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /></a>
+        <a href="https://threejs.org/"><img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" /></a>
+        <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /></a>
+      </td>
     </tr>
     <tr>
-     <td><b>DevOps & Cloud</b></td>
-     <td>Docker, Kubernetes, Linux, Git Architecture</td>
+     <td align="center"><b>☁️ DevOps & Cloud</b></td>
+     <td align="left">
+        <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></a>
+        <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /></a>
+        <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /></a>
+        <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /></a>
+     </td>
     </tr>
   </table>
 </details>
@@ -74,12 +74,18 @@
 
 ### 📊 Performance Dashboard
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
+  <a href="https://github.com/swagatika60">
+    <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Stats" />
+  </a>
+  <a href="https://github.com/swagatika60">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/swagatika60">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
 </p>
 
@@ -110,7 +116,7 @@
       <sub>Interactive visual layer driven by custom GLSL shaders.</sub>
     </td>
     <td width="33.3%" align="center">
-      <b>🎓 Placement Ecosystem</b><br>
+      <b>🎓 Digital Placement Ecosystem</b><br>
       <i>Centralized Web Hub</i><br><br>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/Full_Stack-4F46E5?style=flat-square" /><br>

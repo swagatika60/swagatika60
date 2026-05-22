@@ -80,23 +80,26 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=swagatika60&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+### 📊 Live Performance Dashboard
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Total_Contributions-838-4F46E5?style=for-the-badge&logo=github" alt="Contributions" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Status-Active_Developer-00C853?style=for-the-badge&logo=code-climate" alt="Status" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python" alt="Top Lang" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Focus-AI_&_FullStack-FF6D00?style=for-the-badge&logo=google-ai" alt="Focus" />
+    </td>
+  </tr>
+</table>
+---
 
 ### 🚀 Showcase Projects
 <table align="center" width="100%">

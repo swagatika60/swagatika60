@@ -90,12 +90,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/swagatika60">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" alt="Top Languages" />
-  </a>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
-</p>
+
 
 ### 🚀 Showcase Projects
 <table align="center" width="100%">

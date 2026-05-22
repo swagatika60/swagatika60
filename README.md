@@ -49,77 +49,84 @@
 ---
  
 ***🛠 Skills, Tools & Technologies:***
-## 💻 Tech I Use
+<div align="center">
 
-<table align="center">
+<table>
 <tr>
-<td align="center" width="140">
 
-<img src="https://skillicons.dev/icons?i=python" width="48"/>
-
-### Python
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
 </td>
 
-<td align="center" width="140">
-
-<img src="https://skillicons.dev/icons?i=java" width="48"/>
-
-### Java
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b>
 </td>
 
-<td align="center" width="140">
-
-<img src="https://skillicons.dev/icons?i=html" width="48"/>
-
-### HTML
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
 </td>
 
-<td align="center" width="140">
-
-<img src="https://skillicons.dev/icons?i=css" width="48"/>
-
-### CSS
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=ts" width="55"/><br>
+<b>TypeScript</b>
 </td>
+
 </tr>
 
 <tr>
-<td align="center" width="140">
 
-<img src="https://skillicons.dev/icons?i=javascript" width="48"/>
-
-### JavaScript
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML</b>
 </td>
 
-<td align="center" width="140">
-
-<img src="https://skillicons.dev/icons?i=git" width="48"/>
-
-### Git
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS</b>
 </td>
 
-<td align="center" width="140">
-
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-
-### GitHub
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<b>React.js</b>
 </td>
 
-<td align="center" width="140">
-
-<img src="https://skillicons.dev/icons?i=linux" width="48"/>
-
-### Linux
-
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<b>Node.js</b>
 </td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="55"/><br>
+<b>Linux</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
 </tr>
 </table>
+
+</div>
+
 
 
 ---

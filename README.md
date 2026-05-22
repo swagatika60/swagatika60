@@ -75,19 +75,28 @@
 
 ### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- Added cache_seconds=14400 to force faster refreshes -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true&cache_seconds=14400" width="100%" alt="Activity Graph" />
 </p>
 
 ---
+
 ### 📊 Performance Dashboard
 <p align="center">
-  
   <a href="https://github.com/swagatika60">
-    <!-- Note: If the Heroku link ever fails, you can swap "herokuapp.com" with "demolab.com" -->
+    <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&cache_seconds=14400" alt="Main Stats" />
+  </a>
+  <a href="https://github.com/swagatika60">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/swagatika60">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=radical&hide_border=true&cache_seconds=14400" alt="Top Languages" />
+  </a>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Developer Quote" />
+</p>
 
 
 ### 🚀 Showcase Projects

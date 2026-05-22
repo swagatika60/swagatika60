@@ -81,9 +81,7 @@
 ---
 ### 📊 Performance Dashboard
 <p align="center">
-  <a href="https://github.com/swagatika60">
-    <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="Stats" />
-  </a>
+  
   <a href="https://github.com/swagatika60">
     <!-- Note: If the Heroku link ever fails, you can swap "herokuapp.com" with "demolab.com" -->
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="Streak" />

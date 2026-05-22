@@ -29,7 +29,16 @@
 
 ### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,go,docker,kubernetes,git,linux" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,go,docker,kubernetes,git,linux" alt="Tech Stack" />
+  </a>
+</p>
+
+---
+
+### 📈 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---

@@ -4,6 +4,7 @@
 
 <!-- Header Banner -->
 <p align="center">
+  
   <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header&text=Computer%20Science%20Student%20|%20Full-Stack%20&%20AI%20Developer&fontSize=30&fontColor=ffffff" />
 </p>
 

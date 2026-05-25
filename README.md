@@ -30,7 +30,7 @@
 ### 🛠 Tech Stack & Tools (Active Flow)
 <p align="center">
   <marquee scrollamount="6" width="600" behavior="scroll" direction="left">
-    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,go,docker,kubernetes,git,linux,html,css,vscode,github" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,go,docker,git,linux,html,css,vscode,github" alt="Tech Stack" />
   </marquee>
 </p>
 

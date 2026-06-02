@@ -25,7 +25,7 @@
     <img src="https://vercel.app" alt="Github Trophies" /> 
   </a> 
 </p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=swagatika60&theme=radical)](https://git.io/streak-stats)
 ---
 
 ### 🛠 Tech Stack & Tools (Active Flow)

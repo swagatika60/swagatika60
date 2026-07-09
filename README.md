@@ -71,9 +71,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true&v=1" width="100%" alt="Activity Graph" />
 </p>
 
----
-
-
 ### 🚀 Showcase Projects
 <table align="center" width="100%">
   <tr>

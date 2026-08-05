@@ -68,7 +68,7 @@
 ### 📈 Contribution Activity Graph
 <p align="center">
   <!-- Added v=1 to force bypass GitHub's image cache -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true&v=1" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatia60&theme=react-dark&hide_border=true&v=1" width="100%" alt="Activity Graph" />
 </p>
 
 ### 🚀 Showcase Projects

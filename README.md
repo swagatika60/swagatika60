@@ -14,6 +14,7 @@
   <a href="https://www.linkedin.com/in/swagatika-beura-34b91932a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
   <a href="https://x.com/swagatika58256"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/></a>
   <a href="https://dev.to/swagatika_beura2"><img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to" alt="DEV.to"/></a>
+  
 </p>
 
 ---
@@ -37,7 +38,7 @@
         <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
         <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /></a>
-        
+     </td>
      </td>
     </tr>
     <tr>

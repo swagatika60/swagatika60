@@ -67,9 +67,8 @@
 ---
 ### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/swagatika60" width="100%" alt="Contribution Calendar" />
+  <img src="https://streak-stats.demolab.com?user=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 </p>
-
 
 ### 🚀 Showcase Projects
 <table align="center" width="100%">

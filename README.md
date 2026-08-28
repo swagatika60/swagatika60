@@ -66,10 +66,9 @@
 
 ---
 
-
 ### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=swagatika60&theme=dracula&no-frame=true&no-bg=true" alt="Trophies" />
 </p>
 
 ### 🚀 Showcase Projects

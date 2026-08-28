@@ -69,7 +69,7 @@
 
 ### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="GitHub Streak Stats" />
+  <img src="https://raw.githubusercontent.com/swagatika60/swagatika60/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ### 🚀 Showcase Projects

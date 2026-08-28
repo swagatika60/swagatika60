@@ -66,15 +66,12 @@
 
 ---
 
-### 📊 GitHub Activity & Insights
+
+### 📈 GitHub Contribution Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://ghchart.rshah.org/8957e5/swagatika60" alt="swagatika60's Github chart" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swagatika60&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
-</p>
 ### 🚀 Showcase Projects
 <table align="center" width="100%">
   <tr>

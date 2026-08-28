@@ -69,7 +69,7 @@
 
 ### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ### 🚀 Showcase Projects

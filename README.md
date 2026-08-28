@@ -65,7 +65,10 @@
 </details>
 
 ---
-
+### 📈 Contribution Activity Graph
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/swagatika60" width="100%" alt="Contribution Calendar" />
+</p>
 
 
 ### 🚀 Showcase Projects

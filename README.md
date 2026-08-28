@@ -66,11 +66,17 @@
 
 ---
 
+## 🔥 Contribution Streak & Metrics
 
-### 📈 GitHub Contribution Activity
 <p align="center">
-  <img src="https://ghchart.rshah.org/8957e5/swagatika60" alt="swagatika60's Github chart" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swagatika60&theme=tokyonight&background=0D1117&border=8957e5&stroke=8957e5&ring=8957e5&fire=58a6ff&currStreakLabel=8957e5&hide_border=false" width="100%" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=8957e5&title_color=58a6ff&text_color=c9d1d9&icon_color=8957e5&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=8957e5&title_color=58a6ff&text_color=c9d1d9&hide_border=false" height="165" alt="Top Languages" />
+</p>
+
 
 ### 🚀 Showcase Projects
 <table align="center" width="100%">

@@ -67,10 +67,9 @@
 ---
 
 
-
 ### 📈 Contribution Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swagatika60&theme=react-dark&hide_border=true&v=1" width="100%" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=swagatika60&theme=react-dark&hide_border=true" width="100%" alt="GitHub Streak Stats" />
 </p>
 
 ### 🚀 Showcase Projects

@@ -65,10 +65,7 @@
 </details>
 
 ---
-### 📈 Contribution Activity & Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=swagatika60&theme=dark&background=0d1117&border=00ffff&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakLabel=00ffff&sideNums=ffffff&sideLabels=8b949e&dates=8b949e&hide_border=false" width="100%" alt="GitHub Streak Stats" />
-</p>
+
 ### 🚀 Showcase Projects
 <table align="center" width="100%">
   <tr>

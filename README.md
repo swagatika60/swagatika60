@@ -66,11 +66,15 @@
 
 ---
 
-### 📈 Contribution Activity Graph
+### 📊 GitHub Activity & Insights
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=swagatika60&theme=dracula&no-frame=true&no-bg=true" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swagatika60&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swagatika60&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swagatika60&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
+</p>
 ### 🚀 Showcase Projects
 <table align="center" width="100%">
   <tr>

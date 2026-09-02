@@ -76,7 +76,7 @@
       <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" /><br>
       <sub>Real-time vocal feedback & navigation loops via Streamlit.</sub>
     </td>
-    <td width="33.3%" align="center">
+    <td width="33.3%" align="center ">
       <b>✨ Stark Nanite Interface</b><br>
       <i>Gesture-Controlled 3D UI</i><br><br>
       <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
